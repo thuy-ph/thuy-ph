@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Thuy 👋
+
+Check out the Artificial version of me here (https://thuypham.com.au/)
 
 <!--
 **thuy-ph/thuy-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
