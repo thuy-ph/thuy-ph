@@ -1,18 +1,18 @@
-## Hi there, I'm Thuy 👋
+# Hi, I'm Thuy 👋
+*(pronounced "twee")*
 
-Check out the Artificial version of me here (https://thuypham.com.au/)
+Software engineer based in Melbourne, AU.
 
-<!--
-**thuy-ph/thuy-ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## What I'm working on
 
-Here are some ideas to get you started:
+**[Artificial Thuy](https://artificialthuy.com)** — an AI version of me, because I'm not always free, but she is.
+Ask her about my availability, what I'm working on, or where to get the best ramen in Melbourne. This one will contain heaps of my recent updates :D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## Previously
+-**Monash MAVERIC** 
+- **Cash App (Block)**
+- **Xero**
+
+---
