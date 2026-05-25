@@ -11,7 +11,7 @@ Ask her about my availability, what I'm working on, or where to get the best ram
 
 ---
 ## Previously
--**Monash MAVERIC** 
+- **Monash MAVERIC** 
 - **Cash App (Block)**
 - **Xero**
 
